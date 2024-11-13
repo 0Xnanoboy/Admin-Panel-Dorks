@@ -1,5 +1,5 @@
 # Admin-Panel-Dorks
-## Find The Admin Panel For SQLI Injection, Using Google Dorks !!
+## Find The Admin Panel For SQL Injection, Using Google Dorks !!
 
 
 ```
@@ -4466,4 +4466,54 @@ inurl:calendar.php?pg= calendar.php?pg=
 inurl:calendar.php?pg= calendar.php?pg=
 inurl:calendar.php?s= calendar.php?s=
 inurl:calendar.php?s= calendar.php?s=
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurl:lay_old.php?id=
+inurl:declaration_more.php?decl_id=
+inurl:games.php?id=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=d=
+inurl:event.php?id=
+inurl:roduct-item.php?id=
+inurl:sql.php?id=
+inurl:news_view.php?id=
+inurl:select_biblio.php?id=
+inurl:humor.php?id=
+inurl:aboutbook.php?id=
+inurl:fiche_spectacle.php?id=
+inurl:article.php?id=
+inurl:show.php?id=
+inurl:staff_id=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+inurl:view_product.php?id=
+inurl:newsone.php?id=
+inurl:sw_comment.php?id=
+inurl:news.php?id=
+inurl:avd_start.php?av
+inurl:communique_detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl:index.php?id=
+inurl:faq2.php?id=
+inurl:show_an.php?id=
+inurl:review.php?id=
+inurl:loadpsb.php?id=
+inurl:opinions.php?id=
+inurl:spr.php?id=
+inurl:ages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurl:articipant.php?id=
+inurl:download.php?id=
+inurl:main.php?id=
+inurl:review.php?id=
 ```
