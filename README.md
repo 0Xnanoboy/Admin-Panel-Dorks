@@ -31,7 +31,7 @@ inurl:login.cgi
 inurl:/login/index.jsp -site:hertz.*
 inurl:cgi/login.pl
 site:*/auth intitle:login
-inurl: admin/login.aspx
+inurl:admin/login.aspx
 site:amazonaws.com inurl:login.php
 inurl:/index.aspx/login
 inurl:/site/login.php
